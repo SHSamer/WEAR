@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TPWEAR</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="title">Title</string>
+    <string name="type">Type</string>
+    <string name="my_event">My event</string>
+    <string name="sport">Sport</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="eTitle">Title of the event</string>
+    <string name="description">Description</string>
+    <string name="channel_name">\"EventNotification</string>
+    <string name="channel_description">event channel</string>
+    <string name="edescription">Event description</string>
+    <string name="example_sport">Example : Sport</string>
+    <string name="create">create</string>
+    <string name="search_event">Search event</string>
+    <string name="modify">modify</string>
+    <string name="delete">delete</string>
+</resources>

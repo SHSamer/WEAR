@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="4dip"
+        android:fontFamily="@font/b"
+        android:textSize="32sp"
+        android:text="What do you want to do ?" />
+
+    <Button
+        android:id="@+id/speakButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/reg_btn_style"
+        android:textColor="#ffffff"
+        android:fontFamily="@font/b"
+        android:textSize="32sp"
+        android:text="Start your voice message" />
+
+
+    <TextView
+        android:id="@+id/voiceText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="4dip"
+        android:fontFamily="@font/b"
+        android:textSize="32sp"
+        android:text="Resultat : " />
+</LinearLayout>
